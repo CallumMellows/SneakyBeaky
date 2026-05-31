@@ -1,4 +1,0 @@
-true|steal 200 loot|Loot|200
-true|get into the gangs hideout|Area|0
-true|get through the gate|FinishLevel|0
-false|steal the gang leaders hat|Item|0
