@@ -45,6 +45,10 @@
 			"Name": "MetaxisAITools",
 			"Enabled": true,
 			"MarketplaceURL": "https://www.fab.com/listings/a3f7960c-b967-4313-a4b1-d22348b84e45"
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
