@@ -49,6 +49,10 @@
 		{
 			"Name": "PCG",
 			"Enabled": true
+		},
+		{
+			"Name": "AdaptivePathfindingSystem",
+			"Enabled": true
 		}
 	]
 }
